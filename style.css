@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+}
+
+form {
+    margin-top: 20px;
+    color: purple;
+}
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+#header1 {
+    color: green;
+    display: block;
+    margin-bottom: 5px;
+}
